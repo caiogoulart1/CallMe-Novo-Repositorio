@@ -52,6 +52,7 @@ Essa idéia veio devido ao aumento de insatisfação com os softwares já existe
 - Implementação das telas em React Native para criação de chamados pelos funcionários
 - Comunicação com a API backend
 - Implementação do fluxo inicial de resposta da IA ao usuário
+- 
 
 
 
