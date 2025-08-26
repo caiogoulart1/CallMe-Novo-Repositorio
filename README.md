@@ -29,6 +29,8 @@ Essa idéia veio devido ao aumento de insatisfação com os softwares já existe
 - [Sprints Backlog](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)
 - [Descrição Caso de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)
 
+- <img src='diagrama.png'>
+
 
 
 ## 📃 Documentação do Projeto
