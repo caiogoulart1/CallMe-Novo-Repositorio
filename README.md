@@ -33,26 +33,13 @@ Essa idéia veio devido ao aumento de insatisfação com os softwares já existe
 
 ## Cronograma de Sprints
 
-### Sprint 1: Planejamento e Levantamento de Requisitos (1 semana)
-- Definição do escopo do projeto
-- Levantamento detalhado dos requisitos funcionais e não funcionais
-- Criação dos diagramas iniciais (UML)
-- Configuração do ambiente de desenvolvimento (Android Studio, React Native, Node.js)
 
----
+| Sprint | Duração      | Atividades principais                                                                                     |
+|--------|--------------|----------------------------------------------------------------------------------------------------------|
+| 1      | 1 semana     | - Definição do escopo do projeto<br>- Levantamento detalhado dos requisitos<br>- Criação dos diagramas (UML)<br>- Configuração do ambiente de desenvolvimento |
+| 2      | 2 semanas    | - Configuração do servidor Node.js<br>- Implementação da API para chamados<br>- Integração inicial com IA para pré-análise dos chamados                     |
+| 3      | 2 semanas    | - Implementação das telas em React Native<br>- Comunicação com a API backend<br>- Implementação do fluxo inicial da IA respondendo ao usuário                 |
 
-### Sprint 2: Desenvolvimento Backend (2 semanas)
-- Configuração do servidor Node.js
-- Implementação da API para criação e gerenciamento de chamados
-- Integração inicial com o sistema de IA para pré-análise dos chamados
-
----
-
-### Sprint 3: Desenvolvimento Frontend (2 semanas)
-- Implementação das telas em React Native para criação de chamados pelos funcionários
-- Comunicação com a API backend
-- Implementação do fluxo inicial de resposta da IA ao usuário
-- 
 
 
 
