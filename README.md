@@ -68,7 +68,7 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 
 ---
 ## 📈 Cronograma de Evolução
-<img src="Callme/imagem cronograma.png" alt="Cronograma"/>
+<img src="imagem cronograma.png" alt="Cronograma"/>
 
 ---
 ## 📅 Tabela das Sprints
