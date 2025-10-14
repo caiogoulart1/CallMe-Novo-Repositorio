@@ -47,7 +47,7 @@ Para ver o cronograma de evolução, acesse: [Cronograma de Evolução](https://
 
 ---
 ## 📅 Tabela das Sprints
-Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/Nilo40/tabela_das_sprints/tree/main)
+Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/caiogoulart1/Tabela-das-sprints)
 
 ---
 
