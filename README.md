@@ -75,7 +75,7 @@ Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/c
 - [📌 Diagramas UML](https://github.com/caiogoulart1/CallMe-Novo-Repositorio/blob/main/Diagrama_de_caso_de_uso_sistema_corrigido.asta)  
 - [📌 Sprint Backlog](https://github.com/caiogoulart1/CallMe-Novo-Repositorio/blob/main/Sprints_Backlog.docx)  
 - [📌 Casos de Uso](https://github.com/caiogoulart1/CallMe-Novo-Repositorio/blob/main/Descri%C3%A7%C3%A3o_caso_de_uso.docx)  
-- [📌 Documentação Completa](https://github.com/caiogoulart1/CallMe-Novo-Repositorio/raw/refs/heads/main/PIM%203%20SEMESTRE.doc)  
+- [📌 Documentação Completa](https://github.com/caiogoulart1/CallMe-Novo-Repositorio/blob/main/PIM%203%20SEMESTRE.doc)  
 
 
 ---
