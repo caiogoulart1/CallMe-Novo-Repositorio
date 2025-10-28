@@ -162,6 +162,6 @@ Uma tarefa ou história de usuário é considerada **concluída** quando cumpre 
 
    ## 🗒️ Manual do usuário  
 
-- [📌 Manual do usuário](https://github.com/caiogoulart1/CallMe-Novo-Repositorio/blob/main/Diagrama_de_caso_de_uso_sistema_corrigido.asta)
+- [📌 Manual do usuário](https://github.com/caiogoulart1/Manual-do-usuario)
 
 
