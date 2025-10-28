@@ -40,48 +40,6 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 
 --- 
 
-## 📋 Definition of Ready (DoR)
-
-Um item ou sprint é considerado **pronto para início** quando atende aos seguintes critérios:
-
-1. 🧾 **Descrição clara e completa**  
-   A história de usuário ou tarefa está bem detalhada, com objetivo, contexto e critérios de aceitação definidos.
-
-2. ⚙️ **Critérios de aceitação documentados**  
-   Todos os critérios foram revisados e compreendidos pela equipe de desenvolvimento.
-
-3. ⏱️ **Estimativa aprovada**  
-   A tarefa foi estimada e incluída no sprint backlog de forma coerente com a capacidade da equipe.
-
-4. 🔗 **Dependências identificadas**  
-   Todas as dependências externas (APIs, integrações, dados ou pessoas) foram mapeadas e têm solução planejada.
-
-5. 🚫 **Sem bloqueios críticos**  
-   O item está livre de impedimentos que possam atrasar o desenvolvimento.
-
----
-
-## ✅ Definition of Done (DoD)
-
-Uma tarefa ou história de usuário é considerada **concluída** quando cumpre todos os pontos abaixo:
-
-1. 💻 **Código implementado e versionado**  
-   O código está commitado no repositório correto e passou por revisão (pull request aprovado).
-
-2. 🧠 **Critérios de aceitação atendidos**  
-   A funcionalidade cumpre integralmente o que foi definido no início da tarefa.
-
-3. 🧪 **Testes realizados e aprovados**  
-   Inclui testes unitários, de integração e/ou manuais com sucesso comprovado.
-
-4. 🧾 **Documentação atualizada**  
-   README, comentários e instruções foram ajustados conforme a nova entrega.
-
-5. 👁️ **Interface validada (quando aplicável)**  
-   Layout e experiência de uso revisados, sem falhas visuais ou de navegação.
-
----
-
 ##  📋 Backlog do Produto
 Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/caiogoulart1/backlog/tree/main)
 
@@ -157,3 +115,53 @@ $ npx expo start
 ## Devs do Projeto
 
 <table> <tr> <td align="center"> <a href="https://github.com/Devluisgsouza"> <img src="https://avatars.githubusercontent.com/u/175893858?v=4" width="100px;" alt="Luis Souza"/> <br /> <sub><b>Luis Souza</b></sub> </a> <br /> <a href="https://github.com/Devluisgsouza">🔗 GitHub </a> </td> <td align="center"> <a href="https://github.com/Felipe00702"> <img src="https://avatars.githubusercontent.com/u/205240478?v=4" width="100px;" alt="Felipe Silva"/> <br /> <sub><b>Felipe Silva</b></sub> </a> <br /> <a href="https://github.com/Felipe00702">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/Nilo40"> <img src="https://avatars.githubusercontent.com/u/112767071?v=4" width="100px;" alt="Danilo Alves"/> <br /> <sub><b>Danilo Alves</b></sub> </a> <br /> <a href="https://github.com/Nilo40">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/endlymelo"> <img src="https://avatars.githubusercontent.com/u/202872646?v=4" width="100px;" alt="Endly Melo"/> <br /> <sub><b>Endly Melo</b></sub> </a> <br /> <a href="https://github.com/endlymelo">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/caiogoulart1"> <img src="https://avatars.githubusercontent.com/u/205272622?v=4" width="100px;" alt="Caio Goulart"/> <br /> <sub><b>Caio Goulart</b></sub> </a> <br /> <a href="https://github.com/caiogoulart1">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/TheVarella"> <img src="https://avatars.githubusercontent.com/u/95414997?v=4" width="100px;" alt="Gustavo Varella"/> <br /> <sub><b>Gustavo Varella</b></sub> </a> <br /> <a href="https://github.com/TheVarella">🔗 GitHub</a> </tr> </table>
+
+---
+
+## 📋 Definition of Ready (DoR)
+
+Um item ou sprint é considerado **pronto para início** quando atende aos seguintes critérios:
+
+1. 🧾 **Descrição clara e completa**  
+   A história de usuário ou tarefa está bem detalhada, com objetivo, contexto e critérios de aceitação definidos.
+
+2. ⚙️ **Critérios de aceitação documentados**  
+   Todos os critérios foram revisados e compreendidos pela equipe de desenvolvimento.
+
+3. ⏱️ **Estimativa aprovada**  
+   A tarefa foi estimada e incluída no sprint backlog de forma coerente com a capacidade da equipe.
+
+4. 🔗 **Dependências identificadas**  
+   Todas as dependências externas (APIs, integrações, dados ou pessoas) foram mapeadas e têm solução planejada.
+
+5. 🚫 **Sem bloqueios críticos**  
+   O item está livre de impedimentos que possam atrasar o desenvolvimento.
+
+---
+
+## ✅ Definition of Done (DoD)
+
+Uma tarefa ou história de usuário é considerada **concluída** quando cumpre todos os pontos abaixo:
+
+1. 💻 **Código implementado e versionado**  
+   O código está commitado no repositório correto e passou por revisão (pull request aprovado).
+
+2. 🧠 **Critérios de aceitação atendidos**  
+   A funcionalidade cumpre integralmente o que foi definido no início da tarefa.
+
+3. 🧪 **Testes realizados e aprovados**  
+   Inclui testes unitários, de integração e/ou manuais com sucesso comprovado.
+
+4. 🧾 **Documentação atualizada**  
+   README, comentários e instruções foram ajustados conforme a nova entrega.
+
+5. 👁️ **Interface validada (quando aplicável)**  
+   Layout e experiência de uso revisados, sem falhas visuais ou de navegação.
+
+   ---
+
+   ## 🗒️ Manual do usuário  
+
+- [📌 Manual do usuário](https://github.com/caiogoulart1/CallMe-Novo-Repositorio/blob/main/Diagrama_de_caso_de_uso_sistema_corrigido.asta)
+
+
